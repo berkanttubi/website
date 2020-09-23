@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on BTD </title>
-    <link>http://example.org/abouts/</link>
+    <link>https://berkanttugberkdemirtas.me/abouts/</link>
     <description>Recent content in Abouts on BTD </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Sep 2020 19:47:08 +0300</lastBuildDate>
     
-	<atom:link href="http://example.org/abouts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://berkanttugberkdemirtas.me/abouts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hakkimda</title>
-      <link>http://example.org/abouts/hakkimda/</link>
+      <link>https://berkanttugberkdemirtas.me/abouts/hakkimda/</link>
       <pubDate>Tue, 08 Sep 2020 19:47:08 +0300</pubDate>
       
-      <guid>http://example.org/abouts/hakkimda/</guid>
+      <guid>https://berkanttugberkdemirtas.me/abouts/hakkimda/</guid>
       <description>HELLO WORLD İsmim Berkant Tuğberk Demirtaş. 21 yaşındayım ve Ankara&amp;rsquo;da yaşıyorum. ODTÜ Kuzey Kıbrıs Kampüsü 3. sınıf Bilgisayar Mühendisliği onur öğrencisiyim. Bir aksilik çıkmaz ise 2022 yılında mezun olmayı planlıyorum. 2020 yazında Cey Savunma ve Simülasyon A.Ş şirketinde zorunlu yaz stajımı gerçekleştirdim. Taktik Çevre Simülasyon yazılımlarında kullanılacak veritabanı altyapısını geliştirme ve test çalışmaları yaptım.
 Python,C ve C++ dillerine hakim olup farklı teknoloji alanlarında kendimi geliştirmek için çabalıyorum. Yapay Zeka ve Makine Öğrenmesi üzerine çalışmalar yapmaya çalışıyorum.</description>
     </item>
